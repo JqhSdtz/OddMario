@@ -1,0 +1,12 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1877,5): warning : The referenced project '..\cocos2d\external\Box2D\proj.win32\libbox2d.vcxproj' does not exist.
+  Player.cpp
+e:\cocos_project\cocos2d-x-3.17_back\tools\cocos2d-console\bin\oddmario\proj.win32\player.cpp(42): warning C4305: “参数”: 从“double”到“float”截断
+    正在创建库 E:\Cocos_Project\cocos2d-x-3.17_back\tools\cocos2d-console\bin\OddMario\proj.win32\Release.win32\OddMario.lib 和对象 E:\Cocos_Project\cocos2d-x-3.17_back\tools\cocos2d-console\bin\OddMario\proj.win32\Release.win32\OddMario.exp
+  正在生成代码
+  1 of 854 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  OddMario.vcxproj -> E:\Cocos_Project\cocos2d-x-3.17_back\tools\cocos2d-console\bin\OddMario\proj.win32\Release.win32\OddMario.exe
+  Performing Custom Build Step
+  复制了 0 个文件
